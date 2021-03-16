@@ -1,5 +1,7 @@
 # vue-docker
 
+TaeFreeze docker sample
+
 ## Project setup
 ```
 npm install
